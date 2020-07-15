@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```      
-#
+```
+#== @deanbot ==
 #            #######################
 #    _|__   ## Hello [🌍,🌎,🌏] ## 
 #   ((O O) #######################  
 #    | --|                          
 #   /  ===\
-#== @deanbot on the web ====================
+#== find me on the web ==
 #
 # https://spiritedrefactor.net
 # https://twitter.com/deanbot88
