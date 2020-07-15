@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```      
-         ########################
- _|__   ## Hello [🌍,🌎,🌏] ## 
-((O O) #######################  
- | --|                          
-/  ===\                         
+####################################
+#    _|__   ## Hello [🌍,🌎,🌏] ## 
+#   ((O O) #######################  
+#    | --|                          
+#   /  ===\
+#== Contact ===================
+# https://spiritedrefactor.net
+# https://twitter.com/deanbot88
+# https://www.spiritedrefactor.net/twtxt.txt               
 ```
