@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #   ((O O) #######################  
 #    | --|                          
 #   /  ===\
-#== find me on the web ==
+#== on the web ==
 #
 # https://spiritedrefactor.net
 # https://twitter.com/deanbot88
