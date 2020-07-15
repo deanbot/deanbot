@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 #   ((O O) #######################  
 #    | --|                          
 #   /  ===\
-#== Contact ===================
+#== @deanbot on the web ====================
 # https://spiritedrefactor.net
 # https://twitter.com/deanbot88
-# https://www.spiritedrefactor.net/twtxt.txt               
+# https://spiritedrefactor.net/twtxt.txt
+# https://www.linkedin.com/in/deanverleger
 ```
