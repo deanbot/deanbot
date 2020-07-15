@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```      
-####################################
+#
+#            #######################
 #    _|__   ## Hello [🌍,🌎,🌏] ## 
 #   ((O O) #######################  
 #    | --|                          
 #   /  ===\
 #== @deanbot on the web ====================
+#
 # https://spiritedrefactor.net
 # https://twitter.com/deanbot88
 # https://spiritedrefactor.net/twtxt.txt
 # https://www.linkedin.com/in/deanverleger
+#
 ```
