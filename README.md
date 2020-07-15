@@ -1,31 +1,21 @@
-<!--
-### Hi there 👋
-
-**deanbot/deanbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### `@deanbot.helloWorld();`
 ```
-#== @deanbot ==
+#=============
 #            #######################
 #    _|__   ## Hello [🌍,🌎,🌏] ## 
 #   ((O O) #######################  
 #    | --|                          
 #   /  ===\
-#== on the web ==
-#
-# https://spiritedrefactor.net
-# https://twitter.com/deanbot88
-# https://spiritedrefactor.net/twtxt.txt
-# https://www.linkedin.com/in/deanverleger
-#
+#=============
 ```
+
+#### `man @deanbot`
+
+Friendly developer specializing in modern js development.
+
+Find him on the web: 
+
+- [Wiki/Blog site](https://spiritedrefactor.net)
+- [twitter/deanbot88](https://twitter.com/deanbot88)
+- [twtxt.txt](https://spiritedrefactor.net/twtxt.txt)
+- [linkedin](https://www.linkedin.com/in/deanverleger)
