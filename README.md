@@ -1,4 +1,4 @@
-#### `@deanbot.helloWorld();`
+#### `deanbot.helloWorld();`
 ```
 #=============
 #            #######################
@@ -9,7 +9,7 @@
 #=============
 ```
 
-#### `man @deanbot`
+#### `man deanbot`
 
 Friendly developer specializing in modern js.
 
