@@ -11,7 +11,7 @@
 
 #### `man deanbot`
 
-Friendly developer specializing in modern js.
+Friendly developer specializing in modern js and cloud services.
 
 Find him on the web: 
 
