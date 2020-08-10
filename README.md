@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="./deanbot-logo.png" width="60%" >
+</p>
+
 #### `deanbot.helloWorld();`
-```
+
+```sh
 #=============
 #            ########################
 #    _|__   ## Hello [🌍,🌎,🌏]! ##
 #   ((O O) ########################
-#    | --|                          
+#    | --|
 #   /  ===\
 #=============
 ```
@@ -13,7 +18,7 @@
 
 Friendly developer specializing in modern js and cloud services.
 
-Find him on the web: 
+Find him on the web:
 
 - [wiki/blog site](https://spiritedrefactor.net)
 - [twitter/deanbot88](https://twitter.com/deanbot88)
