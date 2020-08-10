@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./deanbot-logo.png" width="60%" >
+  <img src="https://github.com/deanbot/deanbot/raw/master/deanbot-logo.png" width="60%" >
 </p>
 
 #### `deanbot.helloWorld();`
