@@ -20,7 +20,6 @@ Friendly developer specializing in modern js and cloud services.
 
 Find him on the web:
 
-- [wiki/blog site](https://spiritedrefactor.net)
+- [wiki/blog site](https://deanbot.dev)
 - [twitter/deanbot88](https://twitter.com/deanbot88)
-- [twtxt.txt](https://spiritedrefactor.net/twtxt.txt)
 - [linkedin](https://www.linkedin.com/in/deanverleger)
